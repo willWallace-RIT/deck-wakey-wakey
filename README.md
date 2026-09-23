@@ -5,4 +5,4 @@ it's designed for a c3. the algorithm believes that it should be possible to uti
 
 then on the steam deck side a script to conditionally launch a wireless hotspot AP and sunshine needs to happen at startup with a macro with a physical connection on the steamdeck as the flag for condition.
 
-(note: this means theres to APs in the mix — one on the c3 and one on the steamdeck conditionally.
+(note: this means theres to APs in the mix — one on the c3 and one on the steamdeck conditionally)
